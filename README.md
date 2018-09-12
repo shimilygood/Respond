@@ -1,3 +1,10 @@
+#低版本浏览器支持css3的方法
+
+###Respond.js 是一个快速、轻量的 polyfill，用于为 IE6-8 以及其它不支持 CSS3 Media Queries 的浏览器提供媒体查询的 min-width 和 max-width 特性，###实现响应式网页设计（Responsive Web Design）。
+### html5shiv 使不支持html5的浏览器支持html5新增的标签,  IE 9支持html5,但是其一下的版本不支持.
+
+ 
+
 # Respond.js
 ### A fast & lightweight polyfill for min/max-width CSS3 Media Queries (for IE 6-8, and more)
 
